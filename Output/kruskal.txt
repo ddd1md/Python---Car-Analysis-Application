@@ -1,0 +1,2 @@
+Критерий Kruskal — Wallis для переменных "Price" и "Brake.Assist"
+KruskalResult(statistic=25.84674708348528, pvalue=3.6962708778863053e-07)
